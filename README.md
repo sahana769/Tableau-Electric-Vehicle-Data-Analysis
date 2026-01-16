@@ -7,15 +7,6 @@ This project provides insights into the adoption and distribution of electric ve
 - Identify top vehicle makes by total EVs.
 - Visualize key metrics and patterns in an interactive Tableau dashboard.
 
-## File Structure
-tableau_workbook/
-│
-├── electric_vehicle_analysis.twbx ← Tableau workbook file
-└── screenshots/ ← Screenshots of dashboards
-├── dashboard_overview.png ← Overview of the dashboard
-├── ev_adoption_trend_by_year.png ← Trend of EV adoption by year
-└── top_8_vehicles_by_make.png ← Top 8 EVs by vehicle make
-
 ## Problem Statement
 Organizations and policymakers often lack clear insights into electric vehicle (EV) adoption trends, top-performing vehicle brands, and overall market distribution.  
 This limits data-driven decisions for marketing, infrastructure planning, and strategic investments in the EV sector.
@@ -29,16 +20,27 @@ This limits data-driven decisions for marketing, infrastructure planning, and st
 - Generated clear, actionable insights for decision-making.
 - Saved visualizations as screenshots for easy sharing and presentation.
 
-## 📊 Dashboard Screenshots
+## 📊 Dashboard Screenshots & Insights
 
-### Dashboard Overview
+### 1️⃣ Dashboard Overview
+Provides a consolidated view of key electric vehicle metrics, including total EV count, adoption trends, and overall distribution.
+
 ![Dashboard Overview](screenshots/dashboard_overview.png)
 
-### EV Adoption Trend by Year
+---
+
+### 2️⃣ EV Adoption Trend by Year
+Visualizes the year-wise growth of electric vehicle adoption, highlighting periods of rapid increase and overall market expansion.
+
 ![EV Adoption Trend](screenshots/ev_adoption_trend_by_year.png)
 
-### Top 8 Vehicles by Make
+---
+
+### 3️⃣ Top 8 Vehicles by Make
+Displays the top 8 vehicle manufacturers based on total electric vehicle registrations, revealing dominant brands in the EV market.
+
 ![Top 8 Vehicles by Make](screenshots/top_8_vehicles_by_make.png)
+
 
 # Live Links
 
